@@ -1,0 +1,14 @@
+# carro1 vaga 1
+Saber qts vagas estao livres de carro e de moto
+ pra q o Estacionamento saiba se pode novos carros e motos
+vagas id1, 2, 3 ...
+vaga o tipo pra moto pra carro
+
+
+
+5 vagas de carro
+carro1 == tipo = carro, id = 1, placa = car111
+se numeros de carro > total de vagas livres, retorna se pode ou nao mais carro
+
+5 vagas de moto
+se numeros de moto > total de vagas livres, retorna se pode ou nao mais moto
